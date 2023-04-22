@@ -6,7 +6,7 @@ I am a backend Python developer with specialisation on Robotics Process Automati
 - ☁️ I’m currently learning AWS Cloud Computing technologies
 - 📚 My favourite computer programming book is "Code Complete 2nd edition"
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
-- 📫 How to reach me: Telegram @ilgized, email: ilgiz.duseev@icloud.com
+- 📫 How to reach me: Telegram [@ilgized](http://t.me/ilgized), email: ilgiz.duseev@icloud.com
 
 
 📈 **My GitHub Stats:**
