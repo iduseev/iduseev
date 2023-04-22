@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋 I'm [Ilgiz Duseev](https://www.linkedin.com/in/iduseev/)
+
+I am a backend Python developer with specialisation on Robotics Process Automation. I am a fan of continuous self-development.
+
+- 🐶 I’m currently working on [pet project based on FastAPI framework](https://github.com/iduseev/FastAPI_Demo_Project)
+- ☁️ I’m currently learning AWS Cloud Computing technologies
+- 📚 My favourite computer programming book is "Code Complete 2nd edition"
+- ✨ Keen on solving HACKERRANK algorithms & data structures challenges
+- 📫 How to reach me: Telegram @ilgized, email: ilgiz.duseev@icloud.com
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iduseev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduseev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 
 <!--
 **iduseev/iduseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
+
