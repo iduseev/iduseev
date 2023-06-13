@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Ilgiz Duseev](https://www.linkedin.com/in/iduseev/)
 
-I am a backend Python developer with specialisation on Robotics Process Automation.
+I am a backend Python developer.
 
 - 🐶 I’m currently working on [pet project based on FastAPI framework](https://github.com/iduseev/FastAPI_Demo_Project)
 - ☁️ I’m currently learning AWS Cloud Computing technologies
