@@ -4,7 +4,7 @@ I am a backend Python developer.
 
 - 🐶 I’m currently working on [pet project based on FastAPI framework](https://github.com/iduseev/FastAPI_Demo_Project)
 - ☁️ I’m currently learning AWS Cloud Computing technologies
-- 📚 My favourite computer programming book is "Code Complete 2nd edition"
+- 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
 - 📫 How to reach me: Telegram [@ilgized](http://t.me/ilgized), email: ilgiz.duseev@icloud.com
 
