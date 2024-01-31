@@ -2,7 +2,7 @@
 
 I am a backend Python developer.
 
-- 🐶 I’m currently working on [German Embassy Visa Appointment Helper pet project](https://github.com/iduseev/visa-appointment-helper)
+- 🐶 I’m currently working on [German Embassy Visa Appointment Helper pet project](https://github.com/iduseev/rk-termin-appointment-helper)
 - ☁️ I’m currently learning AWS Cloud Computing technologies
 - 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
