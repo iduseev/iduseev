@@ -6,7 +6,7 @@ I am a backend Python developer.
 - ☁️ I’m currently learning AWS Cloud Computing technologies
 - 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
-- 📫 How to reach me: Telegram [@ilgized](http://t.me/ilgized), email: ilgiz.duseev@icloud.com
+- 📫 How to reach me: Telegram [@ilgized](http://t.me/ilgized), email: ilgiz.duseev@yandex.ru
 
 
 📈 **My GitHub Stats:**
