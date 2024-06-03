@@ -2,8 +2,8 @@
 
 I am a backend Python developer.
 
-- 🐶 I’m currently working on [German Embassy Visa Appointment Helper pet project](https://github.com/iduseev/rk-termin-appointment-helper)
-- ☁️ I’m currently learning AWS Cloud Computing technologies
+- 🐶 I’m currently working on several Python pet projects incl. [Angry API service pet project](https://github.com/iduseev/angry_api_service) and [FastAPI SQLAlchemy pet project](https://github.com/iduseev/fastapi_sqlalchemy_project)
+- ☁️ I’m currently learning [DevOps Essential Training by EPAM](https://training.epam.com/en/training/4006) and [AWS Cloud Computing technologies](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 - 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
 - 📫 How to reach me: Telegram [@ilgized](http://t.me/ilgized), email: ilgiz.duseev@yandex.ru
