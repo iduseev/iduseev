@@ -6,7 +6,7 @@ I am a backend Python developer.
 - ☁️ I’m currently learning [DevOps Essential Training by EPAM](https://training.epam.com/en/training/4006) and [AWS Cloud Computing technologies](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 - 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
 - ✨ Keen on solving HACKERRANK algorithms & data structures challenges
-- 📫 How to reach me: Telegram [@ilgized](http://t.me/iduseev), email: ilgizduseev.work@gmail.com
+- 📫 How to reach me: Telegram [@iduseev](http://t.me/iduseev), email: ilgizduseev.work@gmail.com
 
 
 📈 **My GitHub Stats:**
