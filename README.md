@@ -1,4 +1,4 @@
-<img style="object-fit: cover;" src="https://s11.gifyu.com/images/Sotfr.gif" alt="coding" width="100%" height="250"/> 
+<img style="object-fit: cover;" src="https://github.com/iduseev/iduseev/blob/main/Black_Widow_Reboots_War_Machine_s_Armor_Iron_Man_2_2010_4K_Ultra.gif" alt="coding" width="100%" height="250"/> 
 <h1 align="center">Hi there 👋 I'm Ilgiz Duseev</h1>
 <h3 align="center">I am a backend Python developer</h3>
 
@@ -14,13 +14,12 @@
 <p align="left">
 <a href="https://t.me/in/iduseev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="iduseev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/iduseev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iduseev" height="30" width="40" /></a>
-<a href="https://https://x.com/ilgized" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilgized" height="30" width="40" /></a>
+<a href="https://x.com/ilgized" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilgized" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ilgiz.duseev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilgiz.duseev" height="30" width="40" /></a>
 </p>
 
 
-📈 **My GitHub Stats:**
-
+<h3 align="left">📈My GitHub Stats:</h3>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iduseev&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduseev&exclude_repo=PyOpenRPA,Changellenge,edX&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"/>
