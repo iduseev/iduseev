@@ -1,9 +1,6 @@
 <img style="object-fit: cover;" src="https://s11.gifyu.com/images/Sotfr.gif" alt="coding" width="100%" height="250"/> 
-
-
-<h1 align="center">Hi there 👋 I'm [Ilgiz Duseev](https://www.linkedin.com/in/iduseev/)</h1>
+<h1 align="center">Hi there 👋 I'm Ilgiz Duseev</h1>
 <h3 align="center">I am a backend Python developer</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iduseev&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaaroufwork" /> </p>
 
@@ -13,9 +10,9 @@
 - ✨ Keen on solving medium-level SQL tasks on [SQL-EX](https://sql-ex.ru/learn_exercises.php)
 - 📫 How to reach me: ilgizduseev.work@gmail.com
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/in/iduseev" target="blank"><img align="center" src="https://raw.githubusercontent.com/adir6/telegram/master/favicon.ico" alt="iduseev" height="30" width="40" /></a>
+<a href="https://t.me/in/iduseev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="iduseev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/iduseev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iduseev" height="30" width="40" /></a>
 <a href="https://https://x.com/ilgized" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilgized" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ilgiz.duseev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilgiz.duseev" height="30" width="40" /></a>
