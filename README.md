@@ -21,14 +21,14 @@
 &nbsp;
 <h3 align="left">📈My GitHub Stats:</h3>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iduseev&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduseev&exclude_repo=PyOpenRPA,Changellenge,edX&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iduseev&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=nightowl)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduseev&exclude_repo=PyOpenRPA,Changellenge,edX&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl"/>
 </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--[![Ilgiz Duseev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iduseev)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Ilgiz Duseev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iduseev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iduseev/iduseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
