@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iduseev&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaaroufwork" /> </p>
 
-- 🐶 I’m currently working on several Python pet projects incl. [FastAPI SQLAlchemy pet project](https://github.com/iduseev/fastapi_sqlalchemy_project)
-- ☁️ I’m currently learning [PostgreSQL DEV-1 course on PostgresPro](https://postgrespro.ru/education/courses/DEV1), [DevOps Essential Training by EPAM](https://training.epam.com/en/training/4006), and [AWS Cloud Computing technologies](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+<!--- 🐶 I’m currently working on several Python pet projects incl. [FastAPI SQLAlchemy pet project](https://github.com/iduseev/fastapi_sqlalchemy_project) -->
+<!--- ☁️ I’m currently learning [PostgreSQL DEV-1 course on PostgresPro](https://postgrespro.ru/education/courses/DEV1), [DevOps Essential Training by EPAM](https://training.epam.com/en/training/4006), and [AWS Cloud Computing technologies](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) -->
 - 📚 My favourite computer programming book is "Grokking Algorithms" by Aditya Bhargava
-- ✨ Keen on solving medium-level SQL tasks on [SQL-EX](https://sql-ex.ru/learn_exercises.php)
+<!--- ✨ Keen on solving medium-level SQL tasks on [SQL-EX](https://sql-ex.ru/learn_exercises.php) -->
 - 📫 How to reach me: ilgizduseev.work@gmail.com
 
 <h3 align="left">Connect with me:</h3>
