@@ -1,6 +1,6 @@
 <!--<img style="object-fit: cover;" src="https://github.com/iduseev/iduseev/blob/main/Black_Widow_Reboots_War_Machine_s_Armor_Iron_Man_2_2010_4K_Ultra.gif" alt="coding" width="100%" height="350"/> -->
 <h1 align="center">Hi there 👋 I'm Ilgiz Duseev</h1>
-<h3 align="center">I am a backend developer with primary focus on Python. Also casually do Swift development and build web interfaces using AngularJS</h3>
+<h3 align="center">I am a seasoned backend developer with primary focus on Python. Also casually do Swift development and build web interfaces using AngularJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iduseev&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaaroufwork" /> </p>
 
