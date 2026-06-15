@@ -1,8 +1,10 @@
 <!--<img style="object-fit: cover;" src="https://github.com/iduseev/iduseev/blob/main/Black_Widow_Reboots_War_Machine_s_Armor_Iron_Man_2_2010_4K_Ultra.gif" alt="coding" width="100%" height="350"/> -->
 <h1 align="center">Hi there 👋 I'm Ilgiz Duseev</h1>
-<h3 align="center">I am a seasoned backend developer with primary focus on Python. Also casually do Swift development and build web interfaces using AngularJS</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iduseev&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaaroufwork" /> </p>
+<h3 align="center">
+  I am a seasoned backend developer with primary focus on Python.<br />
+  I also casually do Swift development and build web interfaces using AngularJS</h3>
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iduseev&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaaroufwork" /> </p>
 
 <!--- 🐶 I’m currently working on several Python pet projects incl. [FastAPI SQLAlchemy pet project](https://github.com/iduseev/fastapi_sqlalchemy_project) -->
 <!--- ☁️ I’m currently learning [PostgreSQL DEV-1 course on PostgresPro](https://postgrespro.ru/education/courses/DEV1), [DevOps Essential Training by EPAM](https://training.epam.com/en/training/4006), and [AWS Cloud Computing technologies](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) -->
