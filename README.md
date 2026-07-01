@@ -23,7 +23,7 @@
 &nbsp;
 <h3 align="left">📈My GitHub Stats:</h3>
 <p>
-  <img height="180em" src="https://github-readme-stats-eta-ochre-36.vercel.app/api?username=iduseev&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)" />
+  <img height="180em" src="https://github-readme-stats-eta-ochre-36.vercel.app/api?username=iduseev&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
   <img height="180em" src="https://github-readme-stats-eta-ochre-36.vercel.app/api/top-langs/?username=iduseev&exclude_repo=PyOpenRPA,Changellenge,edX&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"/>
 </p>
 
